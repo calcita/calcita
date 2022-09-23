@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Gabriela from Uruguay 👋
+<h2 align="center">Hi there, I'm Gabriela from Uruguay 👋 </h2>
 
 
 - 🔭 I’m currently working on **R-Shiny apps** 
