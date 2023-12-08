@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **R-Shiny apps** 
-- 🌱 I’m currently learning AWS and DigitalOcean
+- 🌱 I’m currently learning AWS and Docker 
 - 👯 I’m looking to collaborate on **with other R developers**
 - :computer: All of my projects are available at [https://gabrielamathieu.rbind.io/](https://gabrielamathieu.rbind.io/)
 - 💬 Ask me about **R | Python | SQL | Shiny | Data Science and Machine Learning**
